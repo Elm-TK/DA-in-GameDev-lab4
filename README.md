@@ -148,6 +148,18 @@ public class Perceptron : MonoBehaviour {
 ```
 
 
+— OR
+
+
+— AND
+
+
+— NAND
+
+
+— XOR
+
+
 
 
 
