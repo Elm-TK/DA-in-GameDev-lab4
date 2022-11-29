@@ -152,13 +152,13 @@ public class Perceptron : MonoBehaviour {
 ![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/OR.png)
 
 — AND
-
+![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/AND.png)
 
 — NAND
-
+![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/NAND.png)
 
 — XOR
-
+![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/XOR.png)
 
 
 
@@ -167,9 +167,10 @@ public class Perceptron : MonoBehaviour {
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох обучения.
 
+![](Таблица.png)
 
 
-
+![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/XOR.png)
 
 
 ## Задание 3
