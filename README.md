@@ -149,7 +149,7 @@ public class Perceptron : MonoBehaviour {
 
 
 — OR
-
+![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/OR.png)
 
 — AND
 
