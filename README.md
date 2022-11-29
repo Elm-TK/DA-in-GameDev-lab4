@@ -149,16 +149,16 @@ public class Perceptron : MonoBehaviour {
 
 
 — OR
-![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/OR.png)
+![](OR.png)
 
 — AND
-![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/AND.png)
+![](AND.png)
 
 — NAND
-![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/NAND.png)
+![](NAND.png)
 
 — XOR
-![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/XOR.png)
+![](XOR.png)
 
 
 
@@ -170,7 +170,7 @@ public class Perceptron : MonoBehaviour {
 ![](Таблица.png)
 
 
-![](https://github.com/Elm-TK/DA-in-GameDev-lab4/blob/main/XOR.png)
+![](Зависимость ошибки обучения от количества эпох обучения.png)
 
 
 ## Задание 3
