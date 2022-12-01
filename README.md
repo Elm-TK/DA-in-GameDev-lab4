@@ -192,6 +192,8 @@ public class Perceptron : MonoBehaviour {
 ## Задание 3
 ### Построить визуальную модель работы перцептрона на сцене Unity.
 
+
+Добавил в скрипт Perceptron метод OnCollisionEnter, который определяет цвета столкнувшихся объектов, по которым определяет результирующий цвет объекта `красный - falce`, `зелёный - true`
 ```cs
     void OnCollisionEnter(Collision other)
     {
