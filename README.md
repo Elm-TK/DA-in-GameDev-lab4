@@ -192,7 +192,20 @@ public class Perceptron : MonoBehaviour {
 ## Задание 3
 ### Построить визуальную модель работы перцептрона на сцене Unity.
 
+```cs
+    void OnCollisionEnter(Collision other)
+    {
+        var firstInput = this.gameObject.GetComponent<Renderer>().material.color == Color.green ? 1 : 0;
 
+        var secondInput = other.gameObject.GetComponent<Renderer>().material.color == Color.green ? 1 : 0;
+
+        var resultColor = CalcOutput(firstInput, secondInput) == 0 ? Color.red : Color.green;
+
+        this.gameObject.GetComponent<Renderer>().material.color = resultColor;
+
+        Destroy(other.gameObject);
+    }
+```
 
 
 
